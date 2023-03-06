@@ -7,7 +7,7 @@
   "scripts": {
     
     "build" : "npm i"
-    "server" : "nodemon index.js"
+    "start" : "nodemon index.js"
     
     
     
