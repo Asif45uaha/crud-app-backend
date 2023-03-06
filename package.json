@@ -5,9 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    
+    "server" : "nodemon index.js",
     "build" : "npm i"
-    "server" : "nodemon index.js"
     
     
     
